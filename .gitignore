@@ -794,3 +794,4 @@ sysinfo.txt
 # Sandbox Files
 Assets/Scenes/Sandbox.meta
 Assets/Scenes/Sandbox/*
+Assets/SceneDependencyCache
